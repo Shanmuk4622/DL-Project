@@ -1,0 +1,28 @@
+Successfully loaded 'best_cifake_model.pth'
+Running evaluation on the entire test set...
+Evaluating: 100%
+ 625/625 [03:35<00:00,  2.94it/s]
+
+==================================================
+CLASSIFICATION REPORT
+==================================================
+                precision    recall  f1-score   support
+
+REAL (Class 0)       0.82      0.88      0.85     10000
+FAKE (Class 1)       0.87      0.81      0.84     10000
+
+      accuracy                           0.85     20000
+     macro avg       0.85      0.85      0.85     20000
+  weighted avg       0.85      0.85      0.85     20000
+
+
+==================================================
+CONFUSION MATRIX
+==================================================
+
+Area Under Curve (AUC): 0.9259
+
+Optimal threshold to maximize F1-score is: 0.3961
+Best F1-score at this threshold: 0.8479
+
+Average Precision (AP) Score: 0.9290
