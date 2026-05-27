@@ -1,5 +1,7 @@
 # Notebooks
 
+![Experiment Preview](results/Project9.gif)
+
 ## Main Experiment Notebooks (Root-level, Chronological)
 
 | File | Date | Description |

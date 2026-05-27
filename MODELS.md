@@ -4,6 +4,8 @@
 
 Three primary architectures were evaluated across the experimental phases, progressing from simple to complex.
 
+![Architecture Diagram](results/diagram1.png)
+
 ---
 
 ## 1. ResNet50

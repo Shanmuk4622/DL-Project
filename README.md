@@ -4,6 +4,8 @@
 
 This research project investigates the detection of AI-generated images using deep learning architectures. The work spans multiple experimental phases evaluating different model architectures (ResNet50, CNN, EfficientNet-B4) across diverse datasets (CIFAKE, SuSy, Dragon), culminating in **HybridForensicsNetV3** -- a state-of-the-art multi-modal Mixture-of-Experts (MoE) framework.
 
+![Comprehensive Overview](results/All%20a4.png)
+
 ## Project Structure
 
 ```
@@ -33,6 +35,8 @@ Project DL/
 | Test 5 | EfficientNet-B4 | SuSy | - | - | - |
 | Test 6 | EfficientNet-B4 (Improved) | CIFAKE | ~85% | ~0.85 | 0.9259 |
 | **Final** | **HybridForensicsNetV3** | **Multi-Generator** | **99.5%** | **0.995** | - |
+
+![Training History](results/comprehensive_training_history.png)
 
 ## Final Manuscript
 

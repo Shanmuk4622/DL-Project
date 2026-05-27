@@ -22,6 +22,10 @@
 - Balanced binary classification dataset
 - Images are 32x32 (CIFAR-style) or resized for EfficientNet
 
+![Real Sample](results/real.png) | ![Fake Sample](results/fake.png) | ![Deepfake Sample](results/deepfakeSampleImage.jpg)
+:---: | :---: | :---:
+**Real Image** | **AI-Generated (Fake)** | **Deepfake Sample**
+
 ## 4. Multi-Generator Evaluation Dataset (Final)
 **Used in:** HybridForensicsNetV3
 - Source: Real and Fake AI-Generated Standardized 512px Image Forensics Dataset [45]
